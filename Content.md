@@ -8,7 +8,7 @@ You can safely ignore this email.
 
 Thanks for confirming 
 that you can access the contact email address you provided.
-Unfortunately, Google couldn't verify that abc@gmail.com belongs to you. 
+**Unfortunately**, Google couldn't verify that abc@gmail.com belongs to you. 
 Learn more about how to recover your account.
 
 Thanks for verifying your account.
